@@ -1,4 +1,4 @@
-# violence-_detection_and_alerting_system
+# violence-detection_and_alerting_system
 
 Ensuring public safety is a fundamental aspect of maintaining social stability and protecting lives. In modern urban environments, violent crimes, road accidents, and fire hazards pose significant risks to communities, with devastating consequences if not addressed promptly. The rise in these incidents, coupled with the limitations of traditional surveillance systems, highlights the urgent need for automated solutions capable of real-time monitoring and alert generation.
 
